@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\OOP_ACT1\OOP_ACT1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\OOP_ACT1\OOP_ACT1\obj\x86\Debug\OOP_ACT1.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\OOP_ACT1\OOP_ACT1\obj\x86\Debug\OOP_ACT1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\OOP_ACT1\OOP_ACT1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\OOP_ACT1\OOP_ACT1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\OOP_ACT1\OOP_ACT1\bin\Debug\OOP_ACT1.exe
+c:\users\administrator\documents\visual studio 2010\Projects\OOP_ACT1\OOP_ACT1\bin\Debug\OOP_ACT1.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\OOP_ACT1\OOP_ACT1\obj\x86\Debug\OOP_ACT1.exe
+c:\users\administrator\documents\visual studio 2010\Projects\OOP_ACT1\OOP_ACT1\obj\x86\Debug\OOP_ACT1.pdb
